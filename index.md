@@ -1,14 +1,19 @@
-Andrew Block 
+# Andrew Block 
+ - I am a Senior at DePaul majoring in Information Technology with a concentration in Web Development. I'm looking for a career in data analytics, project managment, or just something in technology in general as I have a passion for technology. In my free time, I love to play and watch baseball while also going on runs around Lincoln Park.
+
+# Education
+
+### Glenbrook South High School
+  - **2012-2016**
+### Butler University
+  - **2016-2017**
+### DePaul University
+  - **2017- Current**
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-<h1> Education </h1>
 ## Header 2
 ### Header 3
 
