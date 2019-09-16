@@ -1,7 +1,9 @@
 # Andrew Block 
  - I am a Senior at DePaul majoring in Information Technology with a concentration in Web Development. I'm looking for a career in data analytics, project managment, or just something in technology in general as I have a passion for technology. In my free time, I love to play and watch baseball while also going on runs around Lincoln Park.
+ - I'm excited to be apart of this class and learn more about Server Side Web Development!
+ - **Email: ablock97@comcast.net**
 
-# Education
+## Education
 
 ### Glenbrook South High School
   - **2012-2016**
@@ -12,28 +14,41 @@
 
 
 
+## Work Experience 
+ 
+### Anixter - June 2019-August 2019
+_Information Specialist Intern_
+  - Used SQL to find specific data for Business Analysis
+  - Reviewed incidents in ticketing system and compared data for IT Department 
+  - Presented Data findings to management team
+  - Used SQL to manage label counts per location and reported using Excel 
+  - Created mockups in Balsamiq for Packaging services
+### Ray Meyer Fitness and Recreation Center
+_Fitness Floor Supervisor_ November 2018 - Present
+  - Maintain order on the fitness floor
+  - Inspect and clean equipment
+  - Teach patrons how to use equipment
+  - Clean and open studios
+_Sports Supervisor_ January 2019 - Present
+  - Respond to emergencies on gym and track floors
+  -	Setup club activities and tournaments
+  - Maintain cleanliness
+_Babysitting Attendant_ February 2019 - Present
+  - Provide childcare 
+  - Communicate with parents 
+  - Maintain cleanliness
+### GoTechnology - January 2018 – August 2018
+_IT Specialist_
+  -	Worked on IT response team to manage client technology
+  - Communicated with clients directly to resolve issues quickly
+  - Manage multiple clients and issues
+  
+  
 
 
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+  
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ablock97/ablock.ServerSide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
