@@ -1,4 +1,6 @@
- # Andrew Block 
+ # GitHub Pages Website Assignment
+ 
+ # Andrew Block
  * I am a Senior at DePaul majoring in Information Technology with a concentration in Web Development. I'm looking for a career in data analytics, project managment, or just something in technology in general as I have a passion for technology. In my free time, I love to play and watch baseball while also going on runs around Lincoln Park.
  * I'm excited to be apart of this class and learn more about Server Side Web Development!
  * **Email: ablock97@comcast.net**
