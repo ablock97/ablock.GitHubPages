@@ -23,6 +23,7 @@ _Information Specialist Intern_
   - Presented Data findings to management team
   - Used SQL to manage label counts per location and reported using Excel 
   - Created mockups in Balsamiq for Packaging services
+
 ### Ray Meyer Fitness and Recreation Center
 _Fitness Floor Supervisor_ November 2018 - Present
   - Maintain order on the fitness floor
@@ -37,6 +38,7 @@ _Babysitting Attendant_ February 2019 - Present
   - Provide childcare 
   - Communicate with parents 
   - Maintain cleanliness
+
 ### GoTechnology - January 2018 – August 2018
 _IT Specialist_
   -	Worked on IT response team to manage client technology
