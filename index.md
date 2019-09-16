@@ -30,10 +30,12 @@ _Fitness Floor Supervisor_ -  November 2018 - Present
   - Inspect and clean equipment
   - Teach patrons how to use equipment
   - Clean and open studios
+  
 _Sports Supervisor_ - January 2019 - Present
   - Respond to emergencies on gym and track floors
   -	Setup club activities and tournaments
   - Maintain cleanliness
+  
 _Babysitting Attendant_ - February 2019 - Present
   - Provide childcare 
   - Communicate with parents 
