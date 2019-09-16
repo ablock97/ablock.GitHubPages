@@ -5,18 +5,20 @@
 
 ## Education
 
-### Glenbrook South High School
+#### Glenbrook South High School
   - **2012-2016**
-### Butler University
+
+#### Butler University
   - **2016-2017**
-### DePaul University
+
+#### DePaul University
   - **2017- Current**
 
 
 
 ## Work Experience 
  
-### Anixter - June 2019-August 2019
+#### Anixter - June 2019-August 2019
 _Information Specialist Intern_
   - Used SQL to find specific data for Business Analysis
   - Reviewed incidents in ticketing system and compared data for IT Department 
@@ -24,7 +26,8 @@ _Information Specialist Intern_
   - Used SQL to manage label counts per location and reported using Excel 
   - Created mockups in Balsamiq for Packaging services
 
-### Ray Meyer Fitness and Recreation Center
+
+#### Ray Meyer Fitness and Recreation Center
 _Fitness Floor Supervisor_ -  November 2018 - Present
   - Maintain order on the fitness floor
   - Inspect and clean equipment
@@ -41,7 +44,8 @@ _Babysitting Attendant_ - February 2019 - Present
   - Communicate with parents 
   - Maintain cleanliness
 
-### GoTechnology - January 2018 – August 2018
+
+#### GoTechnology - January 2018 – August 2018
 _IT Specialist_
   -	Worked on IT response team to manage client technology
   - Communicated with clients directly to resolve issues quickly
