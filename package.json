@@ -1,22 +1,19 @@
 {
-  "name": "express-locallibrary-tutorial",
-  "version": "0.0.0",
-  "private": true,
+  "name": "api",
+  "version": "1.0.0",
+  "description": "rest",
+  "main": "index.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Andrew Block",
+  "license": "ISC",
   "dependencies": {
-    "async": "^3.1.0",
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "express-validator": "^6.2.0",
-    "http-errors": "~1.6.3",
-    "mongoose": "^5.7.3",
-    "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11"
-  },
-  "devDependencies": {
-    "nodemon": "^1.19.3"
+    "mongoose": "^5.7.10",
+    "mongoose-string-query": "^0.2.7",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^8.4.0",
+    "restify-errors": "^8.0.1",
+    "restify-plugins": "^1.6.0"
   }
 }
